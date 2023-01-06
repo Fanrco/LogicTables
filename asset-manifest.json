@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LogicTables/static/css/main.a5e6f738.css",
+    "main.js": "/LogicTables/static/js/main.f56984b9.js",
+    "static/js/787.7fa5253b.chunk.js": "/LogicTables/static/js/787.7fa5253b.chunk.js",
+    "static/media/DIN-Bold.ttf": "/LogicTables/static/media/DIN-Bold.24817c4932d10f06acd1.ttf",
+    "static/media/DIN.ttf": "/LogicTables/static/media/DIN.7f0f21a90a6f9e0acca1.ttf",
+    "index.html": "/LogicTables/index.html",
+    "main.a5e6f738.css.map": "/LogicTables/static/css/main.a5e6f738.css.map",
+    "main.f56984b9.js.map": "/LogicTables/static/js/main.f56984b9.js.map",
+    "787.7fa5253b.chunk.js.map": "/LogicTables/static/js/787.7fa5253b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5e6f738.css",
+    "static/js/main.f56984b9.js"
+  ]
+}
